@@ -1,25 +1,25 @@
 {
-  "timestamp": "2025-09-06T21:35:16.015304",
+  "timestamp": "2025-09-07T21:35:36.915167",
   "ticker": "BTC-USD",
-  "data_points": 3633,
+  "data_points": 3634,
   "latest_signal": {
-    "date": "2025-09-05",
+    "date": "2025-09-06",
     "signal": "BUY",
     "position": "LONG",
     "phase_quadrant": "Quadrante 1 (Minimo -> Salita)",
-    "phase_value": -2.635296534650971,
-    "oscillator_value": -4294.5556790346745,
-    "signal_strength": 8.436772048192475,
+    "phase_value": -2.6000886873019593,
+    "oscillator_value": -4201.797596695629,
+    "signal_strength": 8.267123322846912,
     "confidence": "LOW",
-    "price": 110650.988279402,
-    "timestamp": "2025-09-06T21:35:13.689569"
+    "price": 110224.6977364094,
+    "timestamp": "2025-09-07T21:35:34.990868"
   },
   "backtest_metrics": {
     "total_return_%": 329.74168735718337,
     "max_drawdown_%": 7.434441965885477,
-    "sharpe_ratio": 1.1168699571889078,
+    "sharpe_ratio": 1.116355918736157,
     "sortino_ratio": Infinity,
-    "calmar_ratio": 5.193567679114801,
+    "calmar_ratio": 5.1888073054400845,
     "total_trades": 13,
     "win_rate_%": 92.3076923076923,
     "profit_factor": 28.198029294652734
