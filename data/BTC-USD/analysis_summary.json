@@ -1,28 +1,28 @@
 {
-  "timestamp": "2025-10-06T21:35:36.485057",
+  "timestamp": "2025-10-07T21:35:29.730607",
   "ticker": "BTC-USD",
-  "data_points": 3663,
+  "data_points": 3664,
   "latest_signal": {
-    "date": "2025-10-05",
+    "date": "2025-10-06",
     "signal": "HOLD",
     "position": "FLAT",
     "phase_quadrant": "Quadrante 3 (Picco -> Discesa)",
-    "phase_value": 0.7276193919672724,
-    "oscillator_value": 2952.2127530859143,
-    "signal_strength": 18.48449655196722,
+    "phase_value": 0.7084132335678716,
+    "oscillator_value": 4117.920745593219,
+    "signal_strength": 29.722300233909024,
     "confidence": "LOW",
-    "price": 123513.4737139671,
-    "timestamp": "2025-10-06T21:35:34.964199"
+    "price": 124752.5283520974,
+    "timestamp": "2025-10-07T21:35:28.156934"
   },
   "backtest_metrics": {
-    "total_return_%": 333.5415445725278,
+    "total_return_%": 333.67321041833884,
     "max_drawdown_%": 7.434441965885477,
-    "sharpe_ratio": 1.1181267595772182,
+    "sharpe_ratio": 1.1178182388377342,
     "sortino_ratio": Infinity,
-    "calmar_ratio": 5.178258367659798,
+    "calmar_ratio": 5.174489110684044,
     "total_trades": 15,
     "win_rate_%": 93.33333333333333,
-    "profit_factor": 28.54173531746513
+    "profit_factor": 28.552510527640994
   },
   "cycle_analysis": {
     "dominant_period": 252.0,
