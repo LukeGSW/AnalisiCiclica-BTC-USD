@@ -1,28 +1,28 @@
 {
-  "timestamp": "2025-11-12T21:38:01.650798",
+  "timestamp": "2025-11-13T21:35:37.889674",
   "ticker": "BTC-USD",
-  "data_points": 3701,
+  "data_points": 3702,
   "latest_signal": {
-    "date": "2025-11-12",
+    "date": "2025-11-13",
     "signal": "HOLD",
     "position": "LONG",
     "phase_quadrant": "Quadrante 1 (Minimo -> Salita)",
-    "phase_value": -2.397578791310649,
-    "oscillator_value": -7201.116929571028,
-    "signal_strength": 3.7216801225134812,
+    "phase_value": -2.368737544512816,
+    "oscillator_value": -7298.629908583709,
+    "signal_strength": 3.5461695554960464,
     "confidence": "LOW",
-    "price": 103204.1640625,
-    "timestamp": "2025-11-12T21:38:00.144595"
+    "price": 101495.6875,
+    "timestamp": "2025-11-13T21:35:36.441209"
   },
   "backtest_metrics": {
-    "total_return_%": 332.42103414686267,
-    "max_drawdown_%": 7.532136885992767,
-    "sharpe_ratio": 1.125938804546495,
+    "total_return_%": 333.99818809255686,
+    "max_drawdown_%": 6.575616712309665,
+    "sharpe_ratio": 1.1344692031262837,
     "sortino_ratio": Infinity,
-    "calmar_ratio": 5.029378325558517,
+    "calmar_ratio": 5.763911099218001,
     "total_trades": 15,
     "win_rate_%": 93.33333333333333,
-    "profit_factor": 28.45003549002383
+    "profit_factor": 32.66628663365505
   },
   "cycle_analysis": {
     "dominant_period": 252.0,
