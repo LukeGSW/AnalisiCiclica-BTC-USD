@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-12-26T21:38:07.442043",
+  "timestamp": "2025-12-27T21:38:10.776893",
   "ticker": "BTC-USD",
-  "data_points": 3745,
+  "data_points": 3746,
   "latest_signal": {
-    "date": "2025-12-26",
+    "date": "2025-12-27",
     "signal": "HOLD",
     "position": "LONG",
     "phase_quadrant": "Quadrante 1 (Minimo -> Salita)",
-    "phase_value": -1.8724061972789163,
-    "oscillator_value": -1589.7946374670428,
-    "signal_strength": 32.32154579653508,
+    "phase_value": -1.8608171613037392,
+    "oscillator_value": -1471.1047826739814,
+    "signal_strength": 31.064711964033688,
     "confidence": "MEDIUM",
-    "price": 88891.7734375,
-    "timestamp": "2025-12-26T21:38:06.021392"
+    "price": 87333.2578125,
+    "timestamp": "2025-12-27T21:38:09.098980"
   },
   "backtest_metrics": {
     "total_return_%": 306.53701272553917,
