@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-01-08T21:42:40.611812",
+  "timestamp": "2026-01-09T21:40:52.995395",
   "ticker": "BTC-USD",
-  "data_points": 3758,
+  "data_points": 3759,
   "latest_signal": {
-    "date": "2026-01-08",
+    "date": "2026-01-09",
     "signal": "HOLD",
     "position": "LONG",
     "phase_quadrant": "Quadrante 2 (Salita -> Picco)",
-    "phase_value": -1.0064235773381367,
-    "oscillator_value": 1210.6341481436684,
-    "signal_strength": 12.861918261415486,
+    "phase_value": -0.7853478682027493,
+    "oscillator_value": 1458.5873737587244,
+    "signal_strength": 11.626096019785432,
     "confidence": "LOW",
-    "price": 90982.234375,
-    "timestamp": "2026-01-08T21:42:38.922363"
+    "price": 91036.5625,
+    "timestamp": "2026-01-09T21:40:51.586422"
   },
   "backtest_metrics": {
     "total_return_%": 306.9048656526162,
